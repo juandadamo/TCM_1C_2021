@@ -1,2 +1,12 @@
-# TCM_1C_2021
-Carpeta de Trabajos Prácticos - 67.31 Transferencia de Calor y Masa
+# 67.31 Transferencia de Calor y Masa
+## Carpeta de Trabajos Prácticos 
+
+
+
+Alumno: Joaquin Carletti
+
+Padrón: 90258
+
+Fecha: 1er Cuatrimestre 2021
+
+
